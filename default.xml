@@ -387,7 +387,6 @@
   <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project path="packages/apps/ExactCalculator" name="LineageOS/android_packages_apps_ExactCalculator" groups="pdk-fs" />
   <project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" groups="pdk-fs" />
-  <project path="packages/apps/HTMLViewer" name="LineageOS/android_packages_apps_HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/KeyChain" name="LineageOS/android_packages_apps_KeyChain" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="LineageOS/android_packages_apps_Messaging" groups="pdk-fs" />
@@ -403,7 +402,6 @@
   <project path="packages/apps/Tag" name="LineageOS/android_packages_apps_Tag" groups="pdk-fs" />
   <project path="packages/apps/Terminal" name="LineageOS/android_packages_apps_Terminal" groups="pdk-fs" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" remote="aosp" />
-  <project path="packages/apps/TvSettings" name="LineageOS/android_packages_apps_TvSettings" groups="generic_fs" />
   <project path="packages/apps/TV" name="LineageOS/android_packages_apps_TV" />
   <project path="packages/apps/UnifiedEmail" name="LineageOS/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
   <project path="packages/apps/WallpaperPicker" name="LineageOS/android_packages_apps_WallpaperPicker" />
@@ -420,9 +418,6 @@
   <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/TvProvider" name="LineageOS/android_packages_providers_TvProvider" groups="pdk-fs" />
   <project path="packages/providers/UserDictionaryProvider" name="LineageOS/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/screensavers/Basic" name="LineageOS/android_packages_screensavers_Basic" groups="pdk-fs" />
-  <project path="packages/screensavers/PhotoTable" name="LineageOS/android_packages_screensavers_PhotoTable" groups="pdk-fs" />
-  <project path="packages/screensavers/WebView" name="LineageOS/android_packages_screensavers_WebView" groups="pdk-fs" />
   <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="adp8064,pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telecomm" name="LineageOS/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
@@ -508,4 +503,3 @@
   <include name="snippets/lionheart.xml" />
 
 </manifest>
-
