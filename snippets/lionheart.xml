@@ -6,6 +6,6 @@
   </project>
 
   <project path="vendor/cm" name="android_vendor_lionheart" remote="lionheart" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Trebuchet" remote="lionheart" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="lionheart" />
     <project path="packages/apps/OmniClock" name="packages_apps_OmniClock" remote="lionheart" />
 </manifest>
